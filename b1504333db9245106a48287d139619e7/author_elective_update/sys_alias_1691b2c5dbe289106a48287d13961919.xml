@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_yaho2_app_engi_0.GitHub_Test_2</id>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Test 2</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>ndonthula</sys_created_by>
+        <sys_created_on>2022-03-28 17:50:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1691b2c5dbe289106a48287d13961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_yaho2_app_engi_0.GitHub_Test_2</sys_name>
+        <sys_package display_value="App Engine Studio Test" source="x_yaho2_app_engi_0">b1504333db9245106a48287d139619e7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App Engine Studio Test">b1504333db9245106a48287d139619e7</sys_scope>
+        <sys_update_name>sys_alias_1691b2c5dbe289106a48287d13961919</sys_update_name>
+        <sys_updated_by>ndonthula</sys_updated_by>
+        <sys_updated_on>2022-03-28 17:50:21</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App Engine Studio Test">b1504333db9245106a48287d139619e7</application>
+        <comments/>
+        <file_path/>
+        <instance_id>fa1f42cd2b3cfc00af955b5fe8da15d6</instance_id>
+        <instance_name>ouryahoodev</instance_name>
+        <name>sys_alias_1691b2c5dbe289106a48287d13961919</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_yaho2_app_engi_0.GitHub_Test_2</id><multiple_connections>false</multiple_connections><name>GitHub Test 2</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>ndonthula</sys_created_by><sys_created_on>2022-03-28 17:50:21</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>1691b2c5dbe289106a48287d13961919</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_yaho2_app_engi_0.GitHub_Test_2</sys_name><sys_package display_value="App Engine Studio Test" source="x_yaho2_app_engi_0">b1504333db9245106a48287d139619e7</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="App Engine Studio Test">b1504333db9245106a48287d139619e7</sys_scope><sys_update_name>sys_alias_1691b2c5dbe289106a48287d13961919</sys_update_name><sys_updated_by>ndonthula</sys_updated_by><sys_updated_on>2022-03-28 17:50:21</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>952531104</payload_hash>
+        <record_name>x_yaho2_app_engi_0.GitHub_Test_2</record_name>
+        <reverted_from/>
+        <source>39504333db9245106a48287d139619e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ndonthula</sys_created_by>
+        <sys_created_on>2022-03-28 17:50:21</sys_created_on>
+        <sys_id>74b13e85dbe289106a48287d13961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fd1a673f20000001</sys_recorded_at>
+        <sys_updated_by>ndonthula</sys_updated_by>
+        <sys_updated_on>2022-03-28 17:50:21</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>7cb13e85d6e28910f8be819e74759983</update_guid>
+        <update_guid_history>7cb13e85d6e28910f8be819e74759983:952531104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ndonthula</sys_created_by>
+        <sys_created_on>2022-03-28 18:02:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>58d56d35c4ab4c059f8ac5facf3cb271</sys_id>
+        <sys_metadata>1691b2c5dbe289106a48287d13961919</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_yaho2_app_engi_0.GitHub_Test_2</sys_name>
+        <sys_package display_value="App Engine Studio Test" source="x_yaho2_app_engi_0">b1504333db9245106a48287d139619e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App Engine Studio Test">b1504333db9245106a48287d139619e7</sys_scope>
+        <sys_scope_delete display_value="">0740e01d359e4c36826527fbb8afb3e9</sys_scope_delete>
+        <sys_update_name>sys_alias_1691b2c5dbe289106a48287d13961919</sys_update_name>
+        <sys_update_version display_value="sys_alias_1691b2c5dbe289106a48287d13961919">74b13e85dbe289106a48287d13961984</sys_update_version>
+        <sys_updated_by>ndonthula</sys_updated_by>
+        <sys_updated_on>2022-03-28 18:02:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
